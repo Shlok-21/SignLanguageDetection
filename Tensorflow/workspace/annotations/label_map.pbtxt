@@ -1,0 +1,32 @@
+item { 
+	name:'ThumbsUp'
+	id:1
+}
+item { 
+	name:'ThumbsDown'
+	id:2
+}
+item { 
+	name:'ThankYou'
+	id:3
+}
+item { 
+	name:'Yes'
+	id:4
+}
+item { 
+	name:'No'
+	id:5
+}
+item { 
+	name:'Peace'
+	id:6
+}
+item { 
+	name:'Call'
+	id:7
+}
+item { 
+	name:'Hello'
+	id:8
+}

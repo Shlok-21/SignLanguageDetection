@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peace</folder>
+	<filename>peace.1455f40f-f176-11ed-a40d-b05cda277e61.jpg</filename>
+	<path>D:\new project\Tensorflow\workspace\images\collectedimages\peace\peace.1455f40f-f176-11ed-a40d-b05cda277e61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>167</ymin>
+			<xmax>213</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

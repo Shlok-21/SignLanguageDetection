@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.543c4613-f178-11ed-890d-b05cda277e61.jpg</filename>
+	<path>D:\new project\Tensorflow\workspace\images\collectedimages\no\no.543c4613-f178-11ed-890d-b05cda277e61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>124</ymin>
+			<xmax>267</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>
